@@ -6,8 +6,8 @@ import { RouterLink, RouterView } from "vue-router";
   <header>
     <nav>
       <RouterLink to="/">Home</RouterLink>
-      <RouterLink to="/about">About</RouterLink>
-      <RouterLink to="/sandbox">Sandbox</RouterLink>
+      <RouterLink to="/add-task">Add task</RouterLink>
+      <RouterLink to="/list">All tasks</RouterLink>
     </nav>
   </header>
 
