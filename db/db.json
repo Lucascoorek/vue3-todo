@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "description": "Call mum",
+      "date": "2022-04-26",
+      "done": false,
+      "important": true
+    },
+    {
+      "id": 1,
+      "description": "Go shopping",
+      "date": "2022-04-23",
+      "done": false,
+      "important": false
+    },
+    {
+      "id": 3,
+      "description": "Do washing",
+      "date": "2022-04-25",
+      "done": false,
+      "important": false
+    }
+  ]
+}
